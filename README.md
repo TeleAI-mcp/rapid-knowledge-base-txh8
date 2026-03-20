@@ -1,2 +1,3 @@
-# rapid-knowledge-base-txh8
+# Rapid Knowledge Base Txh8
+
 A repository to test GitHub automation for issue management.
